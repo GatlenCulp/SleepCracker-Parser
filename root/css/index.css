@@ -1,0 +1,7 @@
+table {
+	border: 1px solid red;
+}
+table th {
+	background-color: aqua;
+	border: 1px solid black;
+}
